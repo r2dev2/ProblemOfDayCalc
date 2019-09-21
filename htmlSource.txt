@@ -12,9 +12,9 @@
   <meta content="http://rkorsunsky.weebly.com/uploads/8/3/3/7/8337108/editor/6128517.jpg?1515437928" property="og:image"/>
   <meta content="http://rkorsunsky.weebly.com/potd-for-calculus.html" property="og:url"/>
   <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
-  <link href="//cdn2.editmysite.com/css/sites.css?buildTime=1568922593" id="wsite-base-style" rel="stylesheet" type="text/css"/>
-  <link href="//cdn2.editmysite.com/css/old/fancybox.css?1568922593" rel="stylesheet" type="text/css"/>
-  <link href="/files/main_style.css?1568923529" rel="stylesheet" title="wsite-theme-css" type="text/css"/>
+  <link href="//cdn2.editmysite.com/css/sites.css?buildTime=1568932596" id="wsite-base-style" rel="stylesheet" type="text/css"/>
+  <link href="//cdn2.editmysite.com/css/old/fancybox.css?1568932596" rel="stylesheet" type="text/css"/>
+  <link href="/files/main_style.css?1569016407" rel="stylesheet" title="wsite-theme-css" type="text/css"/>
   <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,700,400italic,700italic&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"/>
   <link href="//fonts.googleapis.com/css?family=Alice&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"/>
   <link href="//fonts.googleapis.com/css?family=Raleway:400,300,200,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"/>
@@ -72,9 +72,9 @@ var STYLE_PREFIX = 'wsite';
   </script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js">
   </script>
-  <script src="//cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1568922593&amp;" type="text/javascript">
+  <script src="//cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1568932596&amp;" type="text/javascript">
   </script>
-  <script src="//cdn2.editmysite.com/js/site/main.js?buildTime=1568922593">
+  <script src="//cdn2.editmysite.com/js/site/main.js?buildTime=1568932596">
   </script>
   <script type="text/javascript">
    function initCustomerAccountsModels() {
@@ -109,7 +109,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
   <script>
    _W.relinquish && _W.relinquish()
   </script>
-  <script src="//cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1568922593&amp;" type="text/javascript">
+  <script src="//cdn2.editmysite.com/js/lang/en/stl.js?buildTime=1568932596&amp;" type="text/javascript">
   </script>
   <script>
    _W.themePlugins = [];
@@ -228,15 +228,15 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
               </div>
               <div>
                <div style="margin: 10px 0 0 -10px">
-                <a download="" href="/uploads/8/3/3/7/8337108/potd_1.png" title="Download file: potd_1.png">
-                 <img height="36" src="//www.weebly.com/weebly/images/file_icons/image.png" style="float: left; position: relative; left: 0px; top: 0px; margin: 0 15px 15px 0; border: 0;" width="36"/>
+                <a download="" href="/uploads/8/3/3/7/8337108/potd1_solution.pptx" title="Download file: potd1_solution.pptx">
+                 <img height="36" src="//www.weebly.com/weebly/images/file_icons/xls.png" style="float: left; position: relative; left: 0px; top: 0px; margin: 0 15px 15px 0; border: 0;" width="36"/>
                 </a>
                 <div style="float: left; text-align: left; position: relative;">
                  <table style="font-size: 12px; font-family: tahoma; line-height: .9;">
                   <tr>
                    <td colspan="2">
                     <b>
-                     potd_1.png
+                     potd1_solution.pptx
                     </b>
                    </td>
                   </tr>
@@ -245,7 +245,7 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
                     File Size:
                    </td>
                    <td>
-                    21 kb
+                    111 kb
                    </td>
                   </tr>
                   <tr style="display: none;">
@@ -253,11 +253,11 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
                     File Type:
                    </td>
                    <td>
-                    png
+                    pptx
                    </td>
                   </tr>
                  </table>
-                 <a download="" href="/uploads/8/3/3/7/8337108/potd_1.png" style="font-weight: bold;" title="Download file: potd_1.png">
+                 <a download="" href="/uploads/8/3/3/7/8337108/potd1_solution.pptx" style="font-weight: bold;" title="Download file: potd1_solution.pptx">
                   Download File
                  </a>
                 </div>
@@ -281,6 +281,44 @@ _W.setup_model_rpc({"rpc_namespace":"_W.CustomerAccounts.RPC","model_namespace":
           </table>
          </div>
         </div>
+       </div>
+       <div>
+        <div style="margin: 10px 0 0 -10px">
+         <a download="" href="/uploads/8/3/3/7/8337108/potd_2.png" title="Download file: potd_2.png">
+          <img height="36" src="//www.weebly.com/weebly/images/file_icons/image.png" style="float: left; position: relative; left: 0px; top: 0px; margin: 0 15px 15px 0; border: 0;" width="36"/>
+         </a>
+         <div style="float: left; text-align: left; position: relative;">
+          <table style="font-size: 12px; font-family: tahoma; line-height: .9;">
+           <tr>
+            <td colspan="2">
+             <b>
+              potd_2.png
+             </b>
+            </td>
+           </tr>
+           <tr style="display: none;">
+            <td>
+             File Size:
+            </td>
+            <td>
+             49 kb
+            </td>
+           </tr>
+           <tr style="display: none;">
+            <td>
+             File Type:
+            </td>
+            <td>
+             png
+            </td>
+           </tr>
+          </table>
+          <a download="" href="/uploads/8/3/3/7/8337108/potd_2.png" style="font-weight: bold;" title="Download file: potd_2.png">
+           Download File
+          </a>
+         </div>
+        </div>
+        <hr style="clear: both; width: 100%; visibility: hidden"/>
        </div>
       </div>
      </div>
@@ -352,7 +390,7 @@ if (document.cookie.match(/(^|;)\s*is_mobile=1/)) {
   </div>
   <div id="customer-accounts-app">
   </div>
-  <script src="//cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1568922593">
+  <script src="//cdn2.editmysite.com/js/site/main-customer-accounts-site.js?buildTime=1568932596">
   </script>
   <script type="text/javascript">
    var _gaq = _gaq || [];

@@ -2,14 +2,20 @@ import subprocess
 import fnc
 
 fnc.init("link.txt")
-subprocess.call("cat htmlSource.txt | grep '<a download=' >> link.txt", shell=True)
+subprocess.call("cat htmlSource.txt | grep '<a download=' | grep png >> link.txt", shell=True)
 
 unparsed = open("link.txt", "r")
 lunparsed = unparsed.readlines()
 unparsed.close()
 
 lunparsed = lunparsed[0]
-flunparsed = lunparsed[37:]
+fno = 0
+for i in range(len(lunparsed)):
+    if lunparsed[i] == "/":
+        fno = i
+        break
+
+flunparsed = lunparsed[fno:]
 eurl = ""
 
 for i in flunparsed:
