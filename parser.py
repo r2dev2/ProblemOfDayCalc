@@ -3,6 +3,7 @@ import fnc
 
 fnc.init("link.txt")
 subprocess.call("cat htmlSource.txt | grep href | grep png >> link.txt", shell=True)
+subprocess.call("cat htmlSource.txt | grep href | grep png >> link.txt", shell=True)
 
 unparsed = open("link.txt", "r")
 lunparsed = unparsed.readlines()
